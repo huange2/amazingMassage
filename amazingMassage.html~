@@ -6,6 +6,7 @@
   </head>
 
   <body>
+    <div class="container">
 <nav class="navbar navbar-default" role="navigation">
    <div class="navbar-header">
       <a class="navbar-brand" href="#">Amazing Massage</a>
@@ -15,48 +16,64 @@
          <li class="active"><a href="#">Home</a></li>
          <li><a href="#">About Us</a></li>
          <li><a href="#">Types of Massage & Pricing</a></li>
-         <li><a href="#">Contact & Scheduling</a></li>
+         <li><a href="#ContactUs">Contact & Scheduling</a></li>
       </ul>
    </div>
 </nav>
+    </div>
 <div class="container">
   <div class="jumbotron">
     <h1>Amazing Massage</h1>
   </div>
   <div class="panel panel-default">
       <div class="panel-heading">
-      <h3>Column 1</h3>
+      <h3>Welcome!</h3>
       </div>
       <div class="panel-body">
+      <img src="images/yin4.png" alt="circle" style="float:left;">
+      <p>This is the Amazing Massage official website! Amazing Massage is an independant business located in Auburn Washington.</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      </div>
+  </div>
+  <div class="panel panel-default">
+      <div class="panel-heading">
+      <h3>About Us</h3>
+      </div>
+      <div class="panel-body">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
       </div>
   </div>
   <div class="panel panel-default">
       <div class="panel-heading">
-      <h3>Column 1</h3>
+      <h3>Types of Massage & Pricing</h3>
       </div>
       <div class="panel-body">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
       </div>
   </div>
   <div class="panel panel-default">
       <div class="panel-heading">
-      <h3>Column 1</h3>
+      <h3><a name="ContactUs">Contact us & Scheduling</a></h3>
       </div>
       <div class="panel-body">
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-      </div>
-  </div>
-  <div class="panel panel-default">
-      <div class="panel-heading">
-      <h3>Column 1</h3>
-      </div>
-      <div class="panel-body">
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       </div>
   </div>
 </div>
