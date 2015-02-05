@@ -3,13 +3,13 @@ body {
   background-image:url('../images/linedpaper.png');
 
 }
-
 .jumbotron {
 
-    background-image:url('../images/green_cup.png');
     text-align:center;
     letter-spacing:3px;
-    color: #E9E9E9;
+    color: black;
+    margin-top: 50px;
+    background-color:transparent;
 }
 .panel-heading {
 
@@ -28,4 +28,13 @@ body {
   
   font-size:20px;
   letter-spacing:1px;
+}
+
+.panel-body{
+   
+    background-image:url('../images/china.png');
+}
+.spacer {
+
+ height:50px;
 }
